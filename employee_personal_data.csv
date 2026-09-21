@@ -1,0 +1,1471 @@
+EmployeeNumber,Age,DistanceFromHome,Education,EducationField,Gender,MaritalStatus,Attrition
+1,41,1,2,Life Sciences,Female,Single,Yes
+2,49,8,1,Life Sciences,Male,Married,No
+4,37,2,2,Other,Male,Single,Yes
+5,33,3,4,Life Sciences,Female,Married,No
+7,27,2,1,Medical,Male,Married,No
+8,32,2,2,Life Sciences,Male,Single,No
+10,59,3,3,Medical,Female,Married,No
+11,30,24,1,Life Sciences,Male,Divorced,No
+12,38,23,3,Life Sciences,Male,Single,No
+13,36,27,3,Medical,Male,Married,No
+14,35,16,3,Medical,Male,Married,No
+15,29,15,2,Life Sciences,Female,Single,No
+16,31,26,1,Life Sciences,Male,Divorced,No
+18,34,19,2,Medical,Male,Divorced,No
+19,28,24,3,Life Sciences,Male,Single,Yes
+20,29,21,4,Life Sciences,Female,Divorced,No
+21,32,5,2,Life Sciences,Male,Divorced,No
+22,22,16,2,Medical,Male,Divorced,No
+23,53,2,4,Life Sciences,Female,Married,No
+24,38,2,3,Life Sciences,Male,Single,No
+26,24,11,2,Other,Female,Divorced,No
+27,36,9,4,Life Sciences,Male,Single,Yes
+28,34,7,4,Life Sciences,Female,Single,No
+30,21,15,2,Life Sciences,Male,Single,No
+31,34,6,1,Medical,Male,Single,Yes
+32,53,5,3,Other,Female,Divorced,No
+33,32,16,1,Life Sciences,Female,Single,Yes
+35,42,8,4,Marketing,Male,Married,No
+36,44,7,4,Medical,Female,Married,No
+38,46,2,4,Marketing,Female,Single,No
+39,33,2,3,Medical,Male,Single,No
+40,44,10,4,Other,Male,Married,No
+41,30,9,2,Medical,Male,Single,No
+42,39,5,3,Technical Degree,Male,Married,Yes
+45,24,1,3,Medical,Male,Married,Yes
+46,43,2,2,Medical,Female,Divorced,No
+47,50,3,2,Marketing,Male,Married,Yes
+49,35,2,3,Marketing,Female,Married,No
+51,36,5,4,Life Sciences,Female,Married,No
+52,33,1,3,Life Sciences,Female,Married,No
+53,35,4,2,Other,Male,Divorced,No
+54,27,2,4,Life Sciences,Female,Divorced,No
+55,26,25,3,Life Sciences,Male,Single,Yes
+56,27,8,3,Life Sciences,Male,Single,No
+57,30,1,2,Medical,Female,Single,No
+58,41,12,3,Technical Degree,Female,Married,Yes
+60,34,23,4,Marketing,Male,Single,No
+61,37,19,2,Life Sciences,Male,Married,No
+62,46,5,4,Marketing,Male,Single,No
+63,35,8,1,Life Sciences,Male,Married,No
+64,48,1,2,Life Sciences,Male,Single,Yes
+65,28,5,4,Technical Degree,Male,Single,Yes
+68,44,1,5,Marketing,Female,Divorced,No
+70,35,11,2,Medical,Male,Married,No
+72,26,23,3,Marketing,Female,Married,No
+73,33,1,2,Life Sciences,Female,Single,No
+74,35,18,5,Life Sciences,Male,Married,No
+75,35,23,4,Medical,Female,Married,No
+76,31,7,4,Life Sciences,Male,Divorced,No
+77,37,1,4,Life Sciences,Male,Divorced,No
+78,32,1,3,Medical,Male,Married,No
+79,38,29,5,Life Sciences,Female,Single,No
+80,50,7,2,Medical,Female,Divorced,No
+81,59,25,3,Life Sciences,Female,Single,No
+83,36,8,3,Technical Degree,Female,Divorced,No
+84,55,8,3,Medical,Female,Divorced,No
+85,36,11,3,Life Sciences,Male,Single,No
+86,45,7,3,Life Sciences,Male,Divorced,No
+88,35,1,3,Medical,Male,Married,No
+90,36,9,3,Medical,Male,Married,Yes
+91,59,1,1,Life Sciences,Female,Single,No
+94,29,2,3,Life Sciences,Male,Married,No
+95,31,1,4,Medical,Male,Single,No
+96,32,1,3,Life Sciences,Male,Married,No
+97,36,6,3,Life Sciences,Female,Married,No
+98,31,8,4,Life Sciences,Female,Single,No
+100,35,1,4,Marketing,Male,Single,No
+101,45,6,4,Other,Male,Married,No
+102,37,7,4,Medical,Male,Single,No
+103,46,5,2,Medical,Male,Divorced,No
+104,30,1,1,Life Sciences,Male,Married,No
+105,35,1,3,Medical,Male,Single,No
+106,55,1,2,Life Sciences,Male,Married,No
+107,38,6,3,Medical,Female,Divorced,No
+110,34,1,2,Medical,Male,Married,No
+112,56,7,3,Life Sciences,Male,Single,No
+113,23,2,1,Technical Degree,Male,Divorced,No
+116,51,9,4,Life Sciences,Male,Married,No
+117,30,2,3,Life Sciences,Male,Married,No
+118,46,9,2,Medical,Male,Single,Yes
+119,40,1,4,Life Sciences,Male,Married,No
+120,51,21,4,Marketing,Male,Single,No
+121,30,4,2,Medical,Female,Divorced,No
+124,46,1,3,Medical,Male,Married,No
+125,32,6,4,Medical,Male,Single,No
+126,54,2,4,Technical Degree,Female,Married,No
+128,24,3,2,Other,Female,Married,No
+129,28,4,3,Medical,Male,Married,No
+131,58,10,4,Medical,Male,Single,No
+132,44,23,3,Medical,Male,Married,No
+133,37,6,4,Human Resources,Male,Divorced,Yes
+134,32,1,1,Life Sciences,Male,Single,No
+137,20,6,3,Life Sciences,Female,Single,Yes
+138,34,6,4,Other,Female,Single,No
+139,37,2,2,Life Sciences,Male,Divorced,No
+140,59,2,4,Human Resources,Female,Married,No
+141,50,1,3,Life Sciences,Female,Married,No
+142,25,5,3,Marketing,Male,Single,Yes
+143,25,7,1,Medical,Male,Married,No
+144,22,15,3,Medical,Female,Single,No
+145,51,1,4,Medical,Female,Single,No
+147,34,7,3,Life Sciences,Male,Single,Yes
+148,54,26,3,Human Resources,Female,Single,No
+150,24,18,1,Life Sciences,Male,Married,No
+151,34,6,4,Life Sciences,Female,Divorced,No
+152,37,3,3,Life Sciences,Male,Single,No
+153,34,5,3,Medical,Female,Single,No
+154,36,11,2,Technical Degree,Female,Married,No
+155,36,3,2,Life Sciences,Female,Divorced,No
+158,43,26,2,Life Sciences,Male,Married,No
+159,30,23,3,Life Sciences,Male,Divorced,No
+160,33,22,2,Marketing,Male,Married,No
+161,56,14,4,Life Sciences,Female,Married,Yes
+162,51,6,3,Life Sciences,Male,Single,No
+163,31,6,4,Life Sciences,Male,Married,Yes
+164,26,6,3,Other,Female,Married,No
+165,58,23,4,Medical,Female,Married,Yes
+167,19,22,1,Marketing,Male,Single,Yes
+169,22,2,1,Technical Degree,Male,Married,No
+170,49,20,4,Medical,Female,Married,No
+171,43,28,3,Medical,Female,Single,No
+174,50,12,3,Marketing,Female,Single,No
+175,31,20,3,Life Sciences,Female,Married,Yes
+176,41,9,1,Life Sciences,Male,Divorced,No
+177,26,25,1,Life Sciences,Female,Married,No
+178,36,6,2,Medical,Male,Divorced,No
+179,51,8,4,Life Sciences,Male,Single,Yes
+182,39,4,4,Life Sciences,Female,Married,No
+183,25,28,3,Life Sciences,Male,Married,No
+184,30,9,3,Human Resources,Male,Married,No
+190,32,9,3,Medical,Female,Single,Yes
+192,45,29,3,Medical,Male,Single,No
+193,38,3,5,Technical Degree,Female,Single,No
+194,30,18,3,Life Sciences,Female,Single,No
+195,32,9,2,Medical,Male,Divorced,No
+197,30,5,3,Technical Degree,Female,Divorced,No
+198,30,2,1,Medical,Male,Single,No
+199,41,10,3,Life Sciences,Male,Divorced,No
+200,41,9,4,Life Sciences,Male,Married,No
+201,19,3,1,Medical,Female,Single,No
+202,40,26,3,Medical,Female,Divorced,No
+204,35,1,5,Marketing,Male,Married,No
+205,53,6,2,Marketing,Male,Married,No
+206,45,9,3,Life Sciences,Male,Divorced,No
+207,32,8,3,Marketing,Female,Single,No
+208,29,1,1,Technical Degree,Male,Married,No
+211,51,7,4,Medical,Male,Married,No
+214,58,9,3,Medical,Female,Married,No
+215,40,4,4,Marketing,Male,Married,No
+216,34,2,4,Marketing,Female,Married,No
+217,22,19,1,Medical,Male,Married,No
+218,27,9,3,Medical,Male,Divorced,No
+221,28,21,3,Medical,Male,Married,No
+223,57,24,2,Life Sciences,Male,Divorced,No
+224,27,3,3,Medical,Male,Divorced,No
+226,50,11,3,Life Sciences,Female,Single,No
+227,41,14,3,Life Sciences,Male,Divorced,No
+228,30,5,3,Life Sciences,Female,Married,No
+230,38,1,4,Life Sciences,Female,Single,No
+231,32,6,5,Life Sciences,Male,Single,No
+233,27,17,3,Technical Degree,Male,Married,No
+235,19,1,1,Technical Degree,Female,Single,Yes
+238,36,3,2,Medical,Male,Single,No
+239,30,9,3,Medical,Male,Divorced,No
+240,45,4,2,Life Sciences,Female,Divorced,No
+241,56,8,3,Life Sciences,Female,Divorced,No
+242,33,2,3,Life Sciences,Male,Single,No
+243,19,2,3,Life Sciences,Male,Single,Yes
+244,46,1,2,Marketing,Female,Divorced,No
+245,38,9,2,Life Sciences,Female,Single,No
+246,31,12,1,Medical,Female,Married,No
+247,34,27,2,Medical,Female,Single,No
+248,41,20,2,Marketing,Female,Single,Yes
+249,50,1,3,Medical,Male,Married,No
+250,53,13,2,Medical,Female,Divorced,No
+252,33,14,3,Medical,Female,Married,No
+253,40,4,1,Medical,Female,Married,No
+254,55,14,4,Medical,Male,Single,No
+256,34,2,1,Life Sciences,Male,Married,No
+258,51,3,3,Medical,Female,Single,No
+259,52,1,4,Life Sciences,Male,Married,No
+260,27,9,3,Medical,Female,Single,No
+261,35,23,2,Life Sciences,Male,Married,Yes
+262,43,7,3,Medical,Male,Divorced,No
+264,45,2,2,Medical,Male,Married,No
+267,37,21,3,Life Sciences,Male,Married,No
+269,35,2,3,Medical,Female,Single,No
+270,42,21,2,Medical,Female,Divorced,No
+271,38,2,4,Life Sciences,Male,Married,No
+273,38,29,3,Technical Degree,Male,Married,No
+274,27,1,1,Technical Degree,Male,Married,No
+275,49,18,4,Life Sciences,Male,Divorced,No
+277,34,10,4,Medical,Male,Divorced,No
+281,40,19,2,Medical,Male,Married,No
+282,38,29,1,Medical,Male,Married,Yes
+283,29,27,3,Marketing,Female,Married,Yes
+284,22,5,3,Life Sciences,Male,Divorced,No
+286,36,18,1,Medical,Female,Single,No
+287,40,9,5,Life Sciences,Male,Married,No
+288,46,1,4,Medical,Male,Divorced,No
+291,32,4,4,Medical,Male,Married,Yes
+292,30,1,1,Life Sciences,Male,Single,No
+293,27,20,3,Life Sciences,Female,Single,No
+296,51,8,4,Life Sciences,Male,Married,No
+297,30,3,3,Technical Degree,Female,Single,Yes
+298,41,6,3,Life Sciences,Female,Single,No
+299,30,26,4,Marketing,Female,Single,Yes
+300,29,1,3,Technical Degree,Male,Single,Yes
+302,45,6,3,Medical,Female,Single,No
+303,54,3,3,Marketing,Female,Married,No
+304,36,5,2,Life Sciences,Male,Single,No
+305,33,4,4,Medical,Female,Married,No
+306,37,11,3,Other,Male,Divorced,No
+307,38,3,3,Life Sciences,Male,Divorced,No
+308,31,1,4,Medical,Male,Married,No
+309,59,3,3,Life Sciences,Male,Married,No
+311,37,4,4,Marketing,Male,Divorced,No
+312,29,1,1,Medical,Female,Married,No
+314,35,1,3,Marketing,Female,Single,No
+315,29,18,1,Medical,Male,Single,Yes
+316,52,2,3,Life Sciences,Female,Single,No
+319,42,4,2,Technical Degree,Male,Married,No
+321,59,6,2,Medical,Male,Married,No
+323,50,1,4,Medical,Female,Divorced,No
+325,33,14,3,Medical,Male,Married,Yes
+327,43,16,3,Marketing,Female,Married,No
+328,33,2,2,Life Sciences,Female,Married,Yes
+329,52,2,4,Life Sciences,Male,Single,No
+330,32,4,2,Life Sciences,Female,Married,No
+331,32,1,3,Life Sciences,Male,Single,Yes
+332,39,1,4,Medical,Female,Divorced,No
+333,32,26,4,Marketing,Male,Married,No
+334,41,19,2,Life Sciences,Male,Divorced,No
+335,40,24,2,Technical Degree,Male,Divorced,No
+336,45,1,3,Other,Male,Married,No
+337,31,3,4,Medical,Male,Divorced,No
+338,33,5,4,Life Sciences,Female,Married,No
+339,34,2,4,Life Sciences,Male,Married,No
+340,37,1,2,Medical,Female,Married,No
+341,45,7,4,Life Sciences,Male,Married,No
+342,37,10,3,Medical,Male,Divorced,Yes
+343,39,2,4,Technical Degree,Female,Single,No
+346,29,15,3,Life Sciences,Male,Single,No
+347,42,17,2,Life Sciences,Female,Single,No
+349,29,20,2,Marketing,Male,Divorced,No
+350,25,1,3,Life Sciences,Female,Married,No
+351,42,2,3,Medical,Female,Divorced,No
+352,40,2,2,Medical,Male,Divorced,No
+353,51,1,3,Life Sciences,Male,Married,No
+355,31,29,2,Medical,Male,Single,Yes
+359,32,7,3,Life Sciences,Male,Married,No
+361,38,2,2,Life Sciences,Male,Married,No
+362,32,2,1,Technical Degree,Male,Single,No
+363,46,2,3,Technical Degree,Female,Married,No
+364,28,2,4,Life Sciences,Male,Single,Yes
+366,29,2,3,Medical,Male,Married,No
+367,31,23,3,Medical,Male,Married,No
+369,25,5,2,Life Sciences,Male,Divorced,No
+372,45,20,2,Medical,Male,Married,No
+373,36,6,3,Life Sciences,Male,Married,No
+374,55,1,3,Medical,Male,Single,No
+376,47,29,4,Life Sciences,Male,Married,Yes
+377,28,9,3,Medical,Male,Married,No
+378,37,6,4,Medical,Male,Married,No
+379,21,3,2,Medical,Male,Single,No
+380,37,1,4,Medical,Female,Divorced,No
+381,35,22,3,Life Sciences,Female,Divorced,No
+382,38,7,2,Medical,Female,Divorced,No
+384,26,1,3,Life Sciences,Female,Divorced,No
+385,50,4,1,Life Sciences,Male,Divorced,No
+386,53,3,4,Medical,Male,Married,No
+387,42,1,1,Life Sciences,Male,Married,No
+388,29,2,2,Life Sciences,Male,Single,No
+389,55,20,2,Technical Degree,Male,Married,No
+390,26,11,2,Medical,Male,Married,No
+391,37,1,3,Life Sciences,Female,Single,No
+392,44,24,3,Life Sciences,Male,Divorced,Yes
+393,38,23,4,Life Sciences,Male,Divorced,No
+394,26,16,4,Medical,Male,Divorced,Yes
+395,28,8,2,Life Sciences,Female,Single,No
+396,49,10,4,Life Sciences,Female,Single,No
+397,36,3,3,Technical Degree,Male,Single,No
+399,31,5,3,Marketing,Female,Divorced,No
+401,26,4,4,Marketing,Male,Single,Yes
+403,37,9,3,Medical,Male,Married,No
+404,42,26,3,Marketing,Female,Married,No
+405,18,3,3,Life Sciences,Male,Single,Yes
+406,35,16,3,Marketing,Male,Married,No
+407,36,18,4,Life Sciences,Male,Married,No
+408,51,2,3,Medical,Male,Divorced,No
+410,41,2,4,Life Sciences,Male,Single,No
+411,18,10,3,Medical,Female,Single,No
+412,28,16,2,Medical,Male,Single,No
+416,31,7,3,Technical Degree,Male,Married,No
+417,39,1,3,Medical,Male,Divorced,No
+419,36,24,4,Life Sciences,Female,Married,No
+420,32,7,3,Life Sciences,Male,Married,No
+421,38,25,2,Life Sciences,Female,Married,No
+422,58,1,4,Life Sciences,Male,Divorced,No
+423,31,5,4,Technical Degree,Male,Married,No
+424,31,2,3,Human Resources,Male,Married,No
+425,45,7,3,Life Sciences,Male,Divorced,No
+426,31,2,4,Life Sciences,Male,Divorced,No
+428,33,5,4,Life Sciences,Female,Married,No
+429,39,10,1,Medical,Male,Married,No
+430,43,10,4,Life Sciences,Female,Single,No
+431,49,1,2,Technical Degree,Female,Single,No
+433,52,8,4,Medical,Male,Married,Yes
+434,27,5,3,Life Sciences,Female,Single,No
+436,32,8,2,Technical Degree,Female,Married,No
+437,27,2,3,Life Sciences,Male,Single,No
+438,31,7,3,Marketing,Male,Divorced,No
+439,32,2,4,Medical,Female,Single,No
+440,28,2,4,Medical,Male,Married,Yes
+441,30,28,2,Medical,Female,Married,No
+442,31,7,2,Life Sciences,Female,Married,No
+444,39,7,2,Medical,Male,Married,No
+445,39,3,2,Medical,Female,Married,Yes
+446,33,10,3,Marketing,Male,Single,No
+447,47,5,5,Life Sciences,Male,Married,No
+448,43,10,4,Life Sciences,Female,Divorced,No
+449,27,1,1,Marketing,Male,Married,No
+450,54,20,4,Life Sciences,Female,Single,No
+451,43,7,3,Life Sciences,Female,Married,No
+452,45,8,4,Other,Male,Married,No
+453,40,1,2,Medical,Male,Married,No
+454,29,8,4,Other,Male,Married,Yes
+455,29,9,5,Other,Male,Single,No
+456,30,5,3,Marketing,Female,Divorced,No
+458,27,8,4,Marketing,Female,Married,No
+460,37,5,2,Medical,Male,Divorced,No
+461,38,15,2,Life Sciences,Male,Divorced,No
+462,31,7,4,Medical,Female,Single,No
+463,29,10,1,Marketing,Female,Divorced,No
+464,35,5,4,Technical Degree,Male,Single,No
+465,23,26,1,Life Sciences,Male,Divorced,No
+466,41,6,3,Medical,Male,Single,No
+467,47,4,1,Medical,Male,Single,No
+468,42,23,5,Life Sciences,Female,Single,No
+469,29,2,3,Life Sciences,Male,Married,No
+470,42,2,1,Technical Degree,Male,Divorced,No
+471,32,2,3,Medical,Female,Married,No
+473,48,29,1,Medical,Female,Married,No
+474,37,6,3,Medical,Male,Divorced,No
+475,30,25,2,Technical Degree,Female,Married,No
+476,26,1,3,Life Sciences,Male,Married,No
+477,42,2,4,Other,Male,Single,No
+478,21,1,1,Technical Degree,Female,Single,Yes
+479,36,1,5,Medical,Female,Single,No
+481,36,3,4,Medical,Male,Married,No
+482,57,1,4,Medical,Male,Married,No
+483,40,10,4,Life Sciences,Female,Married,No
+484,21,9,2,Medical,Male,Single,No
+485,33,5,3,Marketing,Female,Single,Yes
+486,37,10,3,Medical,Female,Married,No
+487,46,7,4,Medical,Female,Married,No
+488,41,4,3,Marketing,Male,Single,Yes
+491,50,10,3,Technical Degree,Male,Single,No
+492,40,22,2,Marketing,Male,Married,Yes
+493,31,9,4,Life Sciences,Male,Single,No
+494,21,12,3,Life Sciences,Female,Single,Yes
+495,29,23,3,Life Sciences,Male,Single,No
+496,35,9,4,Life Sciences,Male,Single,No
+497,27,1,2,Medical,Male,Divorced,No
+498,28,9,4,Life Sciences,Male,Single,No
+499,49,7,3,Other,Male,Single,No
+500,51,14,2,Life Sciences,Female,Married,No
+501,36,2,3,Life Sciences,Female,Married,No
+502,34,19,3,Marketing,Male,Single,Yes
+505,55,2,3,Life Sciences,Female,Single,No
+507,24,10,4,Marketing,Female,Divorced,No
+508,30,2,1,Technical Degree,Male,Married,No
+510,26,3,1,Technical Degree,Male,Single,Yes
+511,22,11,3,Medical,Female,Married,No
+513,36,2,2,Medical,Male,Married,No
+514,30,4,3,Technical Degree,Male,Single,Yes
+515,37,14,3,Life Sciences,Female,Divorced,No
+516,40,2,2,Marketing,Female,Divorced,No
+517,42,1,4,Life Sciences,Female,Divorced,No
+518,37,10,4,Life Sciences,Male,Single,No
+520,43,12,3,Life Sciences,Male,Divorced,No
+521,40,2,3,Medical,Female,Married,No
+522,54,5,2,Medical,Male,Married,No
+523,34,4,4,Marketing,Female,Married,No
+524,31,7,2,Medical,Female,Married,No
+525,43,21,3,Medical,Male,Married,No
+526,43,8,4,Other,Female,Divorced,No
+527,25,4,2,Life Sciences,Female,Single,No
+529,37,25,5,Medical,Female,Married,No
+530,31,1,2,Life Sciences,Male,Married,No
+531,39,1,1,Life Sciences,Male,Divorced,No
+532,56,6,3,Life Sciences,Female,Married,No
+533,30,12,3,Technical Degree,Female,Single,No
+534,41,1,3,Marketing,Male,Married,No
+536,28,17,2,Medical,Male,Divorced,No
+538,25,3,3,Medical,Male,Married,Yes
+543,52,3,3,Medical,Male,Married,No
+544,45,10,2,Life Sciences,Male,Married,No
+546,52,4,2,Life Sciences,Female,Married,No
+547,42,29,2,Life Sciences,Female,Divorced,No
+548,30,2,3,Life Sciences,Female,Single,No
+549,60,7,3,Life Sciences,Female,Married,No
+550,46,18,3,Medical,Female,Divorced,No
+551,42,28,4,Technical Degree,Female,Married,No
+554,24,1,1,Technical Degree,Female,Single,Yes
+555,34,6,2,Marketing,Female,Divorced,Yes
+556,38,2,2,Life Sciences,Male,Married,No
+558,40,2,4,Life Sciences,Female,Married,No
+560,26,23,3,Life Sciences,Female,Divorced,No
+562,30,3,3,Life Sciences,Male,Married,No
+564,29,3,4,Medical,Male,Married,No
+565,29,25,5,Technical Degree,Female,Married,Yes
+566,19,2,2,Technical Degree,Male,Single,Yes
+567,30,22,4,Other,Female,Married,No
+568,57,29,3,Marketing,Male,Divorced,No
+569,50,29,4,Life Sciences,Male,Married,No
+571,30,2,3,Medical,Female,Single,No
+573,60,28,3,Marketing,Female,Married,No
+574,47,2,2,Medical,Female,Divorced,No
+575,46,2,3,Life Sciences,Male,Married,No
+577,35,22,3,Life Sciences,Male,Single,No
+578,54,8,4,Life Sciences,Female,Single,No
+579,34,2,4,Life Sciences,Male,Divorced,No
+580,46,10,3,Marketing,Female,Married,No
+581,31,9,1,Life Sciences,Male,Divorced,No
+582,33,15,1,Medical,Male,Married,Yes
+584,33,10,1,Medical,Male,Divorced,Yes
+585,30,7,1,Marketing,Male,Single,No
+586,35,16,3,Life Sciences,Male,Married,No
+587,31,20,3,Life Sciences,Male,Married,Yes
+590,34,23,3,Human Resources,Female,Divorced,Yes
+591,42,5,2,Other,Male,Married,No
+592,36,10,4,Medical,Male,Single,No
+593,22,4,1,Technical Degree,Male,Single,Yes
+595,48,2,5,Marketing,Female,Married,No
+597,55,18,5,Life Sciences,Female,Single,No
+599,41,10,2,Life Sciences,Male,Single,No
+600,35,1,3,Marketing,Male,Married,No
+601,40,6,3,Life Sciences,Female,Single,No
+602,39,8,1,Life Sciences,Female,Married,No
+604,31,2,1,Life Sciences,Male,Single,No
+605,42,24,3,Medical,Male,Married,No
+606,45,2,3,Other,Male,Married,No
+608,26,17,4,Life Sciences,Female,Divorced,Yes
+611,29,19,3,Technical Degree,Male,Divorced,No
+612,33,1,5,Medical,Female,Divorced,No
+613,31,7,3,Life Sciences,Male,Divorced,No
+614,18,5,3,Marketing,Male,Single,Yes
+615,40,28,3,Other,Male,Divorced,No
+616,41,2,4,Other,Female,Single,No
+618,26,29,2,Medical,Male,Divorced,No
+620,35,1,3,Medical,Female,Single,No
+621,34,21,4,Life Sciences,Male,Single,No
+622,26,24,3,Technical Degree,Male,Single,Yes
+623,37,1,3,Technical Degree,Female,Single,No
+624,46,18,1,Medical,Female,Married,No
+625,41,2,5,Life Sciences,Female,Married,No
+626,37,9,4,Medical,Male,Divorced,No
+630,52,6,2,Technical Degree,Male,Divorced,No
+631,32,11,4,Other,Male,Married,Yes
+632,24,24,3,Medical,Male,Married,No
+634,38,10,3,Medical,Female,Married,No
+635,37,1,4,Life Sciences,Female,Married,No
+638,49,18,4,Life Sciences,Male,Divorced,No
+639,24,23,3,Medical,Male,Married,No
+641,26,28,2,Marketing,Male,Married,No
+643,24,17,2,Other,Male,Married,No
+644,50,3,3,Medical,Male,Married,No
+645,25,13,1,Medical,Male,Married,No
+647,24,7,3,Life Sciences,Female,Married,Yes
+648,30,12,4,Life Sciences,Male,Married,Yes
+649,34,1,2,Life Sciences,Male,Married,No
+650,31,13,4,Medical,Male,Divorced,Yes
+652,35,25,2,Other,Male,Single,No
+653,31,6,4,Medical,Male,Divorced,No
+655,27,6,4,Medical,Female,Divorced,No
+656,37,2,3,Marketing,Male,Married,No
+657,20,1,3,Life Sciences,Female,Single,No
+659,42,2,4,Life Sciences,Female,Married,No
+661,43,6,4,Other,Male,Divorced,No
+662,38,1,1,Life Sciences,Female,Single,No
+663,43,9,5,Medical,Male,Divorced,No
+664,48,1,4,Life Sciences,Female,Married,No
+665,44,1,4,Life Sciences,Female,Single,No
+666,34,14,3,Technical Degree,Female,Divorced,No
+667,27,2,1,Marketing,Male,Divorced,Yes
+669,21,22,1,Technical Degree,Male,Single,No
+671,44,3,4,Other,Male,Married,No
+675,22,6,1,Medical,Male,Married,No
+677,33,8,4,Marketing,Male,Divorced,No
+679,32,9,4,Life Sciences,Female,Married,No
+680,30,3,3,Medical,Female,Divorced,No
+682,53,1,1,Medical,Female,Single,No
+683,34,1,5,Life Sciences,Male,Married,No
+684,45,26,4,Life Sciences,Female,Married,Yes
+686,26,6,3,Life Sciences,Female,Married,No
+689,37,3,3,Other,Male,Married,No
+690,29,3,2,Medical,Female,Married,No
+691,35,6,4,Life Sciences,Male,Single,No
+692,33,6,3,Life Sciences,Male,Divorced,No
+698,54,19,4,Medical,Male,Married,No
+699,36,9,2,Medical,Male,Divorced,No
+700,27,3,4,Medical,Male,Single,No
+701,20,10,1,Medical,Male,Single,Yes
+702,33,3,3,Life Sciences,Male,Single,Yes
+704,35,3,3,Life Sciences,Male,Married,No
+705,23,4,3,Medical,Male,Married,No
+707,25,8,3,Life Sciences,Male,Married,No
+709,38,7,4,Marketing,Female,Single,No
+710,29,1,4,Life Sciences,Male,Divorced,No
+712,48,2,1,Marketing,Male,Married,No
+714,27,3,1,Medical,Female,Divorced,No
+715,37,10,2,Life Sciences,Male,Single,No
+716,50,28,1,Medical,Male,Married,No
+717,34,9,3,Medical,Female,Single,No
+720,24,3,2,Life Sciences,Female,Single,Yes
+721,39,2,4,Technical Degree,Female,Single,No
+722,32,10,3,Marketing,Male,Single,No
+723,50,8,2,Technical Degree,Male,Married,Yes
+724,38,1,4,Life Sciences,Female,Single,No
+725,27,1,2,Life Sciences,Female,Married,No
+727,32,3,2,Life Sciences,Female,Single,No
+728,47,14,4,Marketing,Male,Single,No
+729,40,5,4,Life Sciences,Male,Married,No
+730,53,7,3,Life Sciences,Male,Married,No
+731,41,10,4,Human Resources,Male,Divorced,No
+732,60,16,4,Marketing,Male,Single,No
+733,27,10,2,Life Sciences,Male,Divorced,No
+734,41,1,3,Human Resources,Male,Married,No
+738,50,8,4,Marketing,Male,Married,No
+741,28,1,2,Life Sciences,Female,Single,Yes
+742,36,8,3,Life Sciences,Female,Married,No
+743,38,1,3,Life Sciences,Female,Single,No
+744,44,24,3,Medical,Male,Single,No
+746,47,3,3,Medical,Female,Divorced,No
+747,30,27,5,Marketing,Male,Divorced,No
+749,29,10,3,Life Sciences,Male,Single,No
+752,42,19,3,Medical,Male,Divorced,Yes
+754,43,15,3,Life Sciences,Male,Married,No
+757,34,8,2,Medical,Female,Single,No
+758,23,9,1,Medical,Male,Married,No
+760,39,3,3,Human Resources,Female,Married,No
+762,56,9,3,Medical,Male,Married,No
+763,40,2,1,Medical,Female,Single,No
+764,27,7,3,Medical,Female,Single,No
+766,29,10,3,Marketing,Male,Divorced,No
+769,53,6,3,Life Sciences,Male,Single,No
+771,35,2,4,Life Sciences,Female,Divorced,No
+772,32,24,4,Life Sciences,Male,Married,No
+773,38,2,5,Medical,Male,Married,No
+775,34,8,5,Life Sciences,Female,Divorced,No
+776,52,3,4,Marketing,Male,Married,No
+780,33,1,4,Other,Male,Single,Yes
+781,25,26,1,Medical,Female,Single,No
+783,45,2,2,Technical Degree,Male,Single,No
+784,23,10,1,Medical,Male,Single,No
+785,47,27,2,Life Sciences,Female,Single,Yes
+786,34,2,3,Other,Male,Single,No
+787,55,2,3,Medical,Male,Married,Yes
+789,36,8,4,Life Sciences,Male,Single,No
+791,52,19,4,Medical,Male,Married,No
+792,26,1,2,Life Sciences,Female,Divorced,No
+793,29,27,3,Medical,Female,Married,No
+796,26,8,3,Technical Degree,Male,Single,Yes
+797,34,1,4,Life Sciences,Female,Single,No
+799,54,19,4,Medical,Female,Divorced,No
+800,27,8,1,Marketing,Male,Married,No
+802,37,10,1,Life Sciences,Female,Divorced,No
+803,38,2,4,Life Sciences,Female,Single,No
+804,34,2,4,Medical,Female,Single,No
+805,35,8,4,Life Sciences,Female,Married,No
+806,30,1,3,Life Sciences,Male,Married,No
+807,40,2,2,Medical,Female,Married,No
+808,34,8,2,Life Sciences,Female,Married,No
+809,42,8,3,Life Sciences,Male,Divorced,No
+811,23,6,3,Life Sciences,Male,Married,Yes
+812,24,9,3,Life Sciences,Male,Divorced,No
+813,52,11,4,Life Sciences,Female,Married,No
+815,50,2,3,Medical,Male,Married,No
+816,29,1,2,Life Sciences,Female,Married,Yes
+817,33,7,3,Medical,Male,Married,No
+819,33,16,3,Marketing,Female,Single,Yes
+820,47,2,2,Other,Female,Married,No
+823,36,1,3,Other,Female,Married,No
+824,29,23,2,Life Sciences,Male,Married,No
+825,58,2,4,Life Sciences,Male,Single,Yes
+826,35,1,4,Life Sciences,Female,Single,No
+827,42,1,2,Life Sciences,Female,Married,No
+828,28,2,4,Medical,Male,Single,Yes
+829,36,13,3,Human Resources,Male,Married,No
+830,32,4,3,Life Sciences,Female,Married,No
+832,40,16,4,Medical,Male,Single,No
+833,30,2,3,Medical,Female,Single,No
+834,45,2,3,Life Sciences,Female,Single,No
+836,42,29,3,Life Sciences,Male,Married,No
+837,38,12,3,Life Sciences,Male,Divorced,No
+838,34,16,4,Life Sciences,Female,Single,No
+840,49,11,3,Marketing,Female,Married,Yes
+842,55,2,1,Medical,Male,Single,Yes
+843,43,14,2,Life Sciences,Male,Married,No
+844,27,5,1,Technical Degree,Male,Divorced,No
+845,35,7,3,Other,Male,Single,No
+846,28,2,4,Marketing,Female,Married,No
+847,34,3,2,Human Resources,Male,Married,No
+848,26,5,2,Medical,Female,Married,Yes
+850,27,3,3,Medical,Male,Married,No
+851,51,26,4,Marketing,Female,Married,No
+852,44,4,3,Medical,Male,Single,No
+854,25,2,1,Medical,Male,Single,No
+855,33,1,3,Medical,Male,Divorced,No
+856,35,27,1,Medical,Female,Single,No
+857,36,1,2,Life Sciences,Male,Married,No
+859,32,13,4,Life Sciences,Male,Divorced,No
+861,30,5,4,Life Sciences,Male,Divorced,No
+862,53,7,2,Marketing,Female,Married,No
+864,45,9,3,Marketing,Male,Divorced,No
+865,32,8,2,Medical,Female,Married,No
+867,52,25,4,Medical,Female,Married,No
+868,37,16,4,Marketing,Male,Divorced,No
+869,28,8,2,Medical,Male,Divorced,No
+872,22,1,2,Life Sciences,Male,Married,No
+874,44,8,4,Life Sciences,Male,Married,No
+875,42,2,1,Medical,Male,Single,No
+878,36,8,3,Life Sciences,Male,Married,No
+879,25,3,1,Other,Male,Married,No
+880,35,9,3,Life Sciences,Female,Married,No
+881,35,25,4,Life Sciences,Female,Divorced,Yes
+882,32,1,3,Life Sciences,Male,Divorced,No
+885,25,4,1,Marketing,Male,Married,No
+887,49,1,3,Technical Degree,Female,Married,No
+888,24,4,1,Life Sciences,Male,Married,No
+889,32,5,2,Life Sciences,Male,Married,No
+893,38,9,3,Marketing,Male,Married,No
+894,42,3,3,Life Sciences,Female,Married,No
+895,31,11,4,Life Sciences,Male,Married,No
+896,29,1,3,Medical,Female,Divorced,Yes
+897,53,8,3,Marketing,Male,Married,No
+899,35,25,3,Technical Degree,Male,Married,No
+900,37,21,2,Medical,Female,Married,No
+901,53,23,4,Life Sciences,Female,Single,No
+902,43,1,3,Life Sciences,Female,Married,No
+903,47,2,2,Marketing,Female,Married,No
+904,37,19,2,Medical,Male,Single,No
+905,50,2,4,Life Sciences,Male,Divorced,No
+909,39,2,3,Life Sciences,Female,Married,No
+910,33,3,2,Human Resources,Male,Divorced,No
+911,32,25,4,Life Sciences,Male,Single,Yes
+912,29,7,1,Medical,Female,Divorced,No
+913,44,9,2,Life Sciences,Male,Married,No
+916,28,5,4,Medical,Male,Single,No
+918,58,2,1,Life Sciences,Male,Divorced,Yes
+920,43,8,3,Life Sciences,Female,Divorced,No
+922,20,2,3,Medical,Female,Single,Yes
+923,21,18,1,Other,Female,Single,Yes
+924,36,14,1,Life Sciences,Male,Married,No
+925,47,2,4,Life Sciences,Female,Single,No
+926,22,3,1,Life Sciences,Female,Married,Yes
+927,41,2,4,Life Sciences,Female,Divorced,Yes
+930,28,9,3,Medical,Female,Divorced,No
+932,39,6,3,Medical,Male,Married,Yes
+933,27,4,3,Life Sciences,Female,Single,No
+934,34,10,3,Life Sciences,Male,Divorced,No
+936,42,14,2,Medical,Female,Single,No
+939,33,1,4,Other,Male,Single,No
+940,58,5,3,Technical Degree,Female,Divorced,No
+941,31,7,4,Life Sciences,Male,Married,No
+942,35,21,1,Life Sciences,Female,Married,No
+944,49,8,2,Other,Female,Married,No
+945,48,20,4,Medical,Male,Married,No
+947,31,20,2,Marketing,Female,Married,No
+949,36,7,4,Other,Male,Single,No
+950,38,1,3,Technical Degree,Female,Married,No
+951,32,1,3,Life Sciences,Female,Married,No
+952,25,19,2,Marketing,Male,Married,Yes
+954,40,10,4,Marketing,Male,Divorced,No
+956,26,1,3,Medical,Male,Single,No
+957,41,6,3,Medical,Male,Single,No
+958,36,2,4,Medical,Male,Single,No
+959,19,21,3,Other,Male,Single,Yes
+960,20,4,3,Technical Degree,Male,Single,Yes
+961,31,12,3,Medical,Female,Married,No
+964,40,9,4,Medical,Male,Divorced,No
+966,32,3,4,Medical,Female,Married,No
+967,36,3,1,Life Sciences,Male,Married,Yes
+969,33,1,3,Life Sciences,Female,Single,No
+970,37,1,4,Life Sciences,Male,Married,Yes
+972,45,4,2,Life Sciences,Male,Married,No
+974,29,20,3,Technical Degree,Female,Married,No
+975,35,18,3,Medical,Female,Married,No
+976,52,1,2,Life Sciences,Male,Married,No
+977,58,2,3,Technical Degree,Male,Single,Yes
+981,53,2,2,Medical,Male,Divorced,No
+982,30,8,2,Other,Male,Divorced,No
+983,38,10,3,Technical Degree,Female,Single,No
+984,35,3,4,Life Sciences,Male,Divorced,No
+985,39,2,5,Life Sciences,Male,Single,No
+986,40,24,3,Life Sciences,Female,Single,Yes
+987,47,16,4,Medical,Male,Divorced,No
+990,36,8,4,Technical Degree,Male,Divorced,No
+991,31,9,2,Medical,Male,Single,Yes
+992,33,17,3,Life Sciences,Male,Single,No
+994,29,10,3,Life Sciences,Female,Single,Yes
+995,33,13,1,Life Sciences,Female,Single,No
+996,45,1,4,Medical,Female,Divorced,No
+997,50,1,2,Medical,Male,Divorced,No
+998,33,1,4,Other,Female,Married,No
+999,41,9,3,Medical,Male,Divorced,No
+1001,27,16,4,Technical Degree,Female,Married,No
+1002,45,23,2,Life Sciences,Male,Married,No
+1003,47,4,2,Life Sciences,Female,Single,No
+1004,30,22,3,Life Sciences,Female,Married,Yes
+1005,50,24,3,Life Sciences,Male,Married,No
+1006,38,10,1,Medical,Male,Married,No
+1007,46,7,2,Medical,Male,Divorced,No
+1009,24,17,1,Medical,Female,Divorced,No
+1010,35,14,4,Other,Male,Divorced,Yes
+1011,31,1,1,Life Sciences,Female,Married,No
+1012,18,5,2,Life Sciences,Male,Single,No
+1013,54,17,3,Technical Degree,Female,Married,No
+1014,35,25,4,Medical,Female,Divorced,No
+1015,30,8,2,Life Sciences,Female,Married,No
+1016,20,11,3,Medical,Female,Single,Yes
+1017,30,5,3,Medical,Female,Single,Yes
+1018,26,2,2,Medical,Male,Married,No
+1019,22,8,1,Life Sciences,Male,Married,No
+1022,48,6,3,Life Sciences,Male,Single,No
+1024,48,4,4,Life Sciences,Male,Single,No
+1025,41,7,2,Medical,Female,Single,No
+1026,39,1,1,Life Sciences,Female,Married,No
+1027,27,2,4,Life Sciences,Female,Married,No
+1028,35,10,3,Other,Male,Divorced,No
+1029,42,5,2,Marketing,Male,Married,No
+1030,50,9,3,Life Sciences,Male,Married,No
+1032,59,2,3,Life Sciences,Female,Single,No
+1033,37,11,2,Medical,Female,Married,Yes
+1034,55,18,4,Medical,Male,Married,No
+1035,41,7,1,Life Sciences,Female,Divorced,No
+1036,38,3,4,Life Sciences,Male,Single,No
+1037,26,29,2,Medical,Male,Single,Yes
+1038,52,2,1,Marketing,Female,Married,Yes
+1039,44,28,3,Medical,Female,Married,No
+1040,50,1,3,Life Sciences,Female,Married,No
+1042,36,16,4,Life Sciences,Female,Single,Yes
+1043,39,22,3,Medical,Female,Single,No
+1044,33,8,1,Life Sciences,Female,Single,No
+1045,45,11,2,Life Sciences,Female,Married,No
+1046,32,29,4,Medical,Female,Single,No
+1047,34,1,4,Marketing,Male,Divorced,No
+1048,59,1,2,Technical Degree,Male,Married,No
+1049,45,24,4,Medical,Male,Single,No
+1050,53,2,3,Marketing,Female,Married,No
+1052,36,15,3,Other,Male,Divorced,Yes
+1053,26,2,3,Life Sciences,Male,Married,Yes
+1055,34,10,4,Life Sciences,Female,Married,No
+1056,28,10,1,Medical,Male,Married,No
+1060,38,3,4,Other,Male,Married,No
+1061,50,2,4,Medical,Male,Married,No
+1062,37,3,3,Other,Female,Single,No
+1066,40,26,3,Marketing,Male,Married,No
+1068,26,1,1,Medical,Female,Divorced,No
+1069,46,1,4,Medical,Male,Divorced,No
+1070,54,2,4,Life Sciences,Female,Married,No
+1071,56,9,3,Medical,Female,Married,No
+1073,36,12,5,Medical,Female,Single,No
+1074,55,2,1,Medical,Male,Single,No
+1076,43,25,3,Medical,Male,Divorced,No
+1077,20,9,3,Marketing,Female,Single,Yes
+1079,21,10,3,Life Sciences,Female,Single,Yes
+1080,46,8,4,Life Sciences,Female,Divorced,No
+1081,51,4,4,Life Sciences,Male,Married,Yes
+1082,28,24,2,Technical Degree,Male,Single,Yes
+1083,26,1,2,Medical,Male,Married,No
+1084,30,20,3,Other,Male,Married,No
+1085,41,7,2,Technical Degree,Female,Married,No
+1088,38,17,1,Life Sciences,Female,Married,No
+1092,40,20,4,Technical Degree,Male,Married,No
+1094,27,8,5,Life Sciences,Male,Married,No
+1096,55,2,1,Life Sciences,Male,Married,No
+1097,28,10,3,Other,Female,Single,No
+1098,44,1,2,Medical,Male,Married,Yes
+1099,33,5,3,Life Sciences,Male,Divorced,No
+1100,35,4,3,Technical Degree,Male,Single,Yes
+1101,33,29,4,Medical,Female,Single,Yes
+1102,28,15,2,Life Sciences,Male,Divorced,No
+1103,34,3,1,Life Sciences,Male,Single,No
+1105,37,10,4,Life Sciences,Female,Divorced,No
+1106,25,4,1,Technical Degree,Male,Married,Yes
+1107,26,21,3,Medical,Male,Divorced,Yes
+1108,33,25,3,Medical,Male,Single,Yes
+1109,42,2,2,Medical,Male,Married,No
+1111,28,1,3,Medical,Male,Divorced,Yes
+1113,50,1,4,Other,Male,Single,Yes
+1114,33,7,3,Life Sciences,Female,Married,No
+1115,34,3,4,Life Sciences,Male,Married,No
+1116,48,1,4,Medical,Male,Single,No
+1117,45,9,4,Life Sciences,Female,Married,No
+1118,52,7,4,Life Sciences,Male,Single,No
+1119,38,10,4,Marketing,Male,Divorced,No
+1120,29,28,4,Life Sciences,Female,Divorced,No
+1121,28,3,3,Medical,Female,Divorced,No
+1124,46,3,1,Marketing,Male,Married,No
+1125,38,2,2,Marketing,Male,Single,No
+1126,43,27,3,Life Sciences,Female,Married,No
+1127,39,2,3,Life Sciences,Male,Divorced,Yes
+1128,40,14,3,Medical,Male,Single,No
+1131,21,1,1,Technical Degree,Female,Single,No
+1132,39,9,3,Life Sciences,Male,Single,No
+1133,36,18,4,Life Sciences,Male,Single,No
+1135,31,20,3,Life Sciences,Male,Married,No
+1136,28,2,1,Life Sciences,Male,Married,No
+1137,35,11,2,Marketing,Male,Divorced,No
+1138,49,8,4,Technical Degree,Male,Married,No
+1140,34,2,2,Life Sciences,Male,Single,No
+1143,29,10,3,Life Sciences,Female,Divorced,No
+1148,42,29,3,Medical,Male,Single,No
+1150,29,8,1,Medical,Male,Married,No
+1152,38,1,3,Human Resources,Male,Married,No
+1154,28,6,3,Life Sciences,Male,Divorced,No
+1156,18,8,1,Medical,Male,Single,Yes
+1157,33,9,4,Marketing,Female,Single,Yes
+1158,41,12,4,Life Sciences,Male,Married,No
+1160,31,15,3,Medical,Male,Married,Yes
+1161,37,25,2,Medical,Female,Divorced,No
+1162,27,6,3,Life Sciences,Male,Married,No
+1163,34,9,1,Life Sciences,Female,Married,No
+1164,35,8,4,Technical Degree,Male,Single,No
+1165,29,23,1,Life Sciences,Female,Married,Yes
+1166,40,9,4,Medical,Female,Single,No
+1167,42,12,3,Life Sciences,Male,Single,Yes
+1171,42,4,4,Marketing,Male,Single,No
+1172,35,1,4,Medical,Male,Married,No
+1173,24,24,3,Medical,Male,Single,No
+1175,28,12,1,Life Sciences,Female,Married,Yes
+1177,26,3,4,Medical,Male,Married,No
+1179,30,10,3,Marketing,Male,Married,No
+1180,40,26,2,Medical,Female,Married,No
+1182,35,2,3,Life Sciences,Male,Divorced,No
+1184,34,1,3,Medical,Male,Single,No
+1185,35,4,4,Other,Male,Married,No
+1188,43,9,3,Marketing,Female,Single,Yes
+1190,32,2,1,Life Sciences,Female,Divorced,No
+1191,56,4,4,Technical Degree,Female,Divorced,No
+1192,29,6,1,Medical,Female,Married,No
+1193,19,9,2,Life Sciences,Male,Single,No
+1195,45,7,3,Medical,Female,Married,No
+1196,37,1,3,Life Sciences,Female,Married,No
+1198,20,3,3,Life Sciences,Male,Single,No
+1200,44,10,4,Life Sciences,Male,Single,Yes
+1201,53,7,2,Medical,Female,Divorced,No
+1202,29,15,1,Life Sciences,Female,Married,No
+1203,22,3,4,Life Sciences,Male,Married,Yes
+1204,46,2,3,Marketing,Female,Married,No
+1206,44,17,3,Life Sciences,Male,Single,No
+1207,33,2,3,Human Resources,Male,Married,No
+1210,41,5,2,Life Sciences,Male,Divorced,Yes
+1211,30,29,4,Life Sciences,Male,Divorced,No
+1212,40,2,4,Medical,Male,Married,No
+1215,50,2,3,Medical,Female,Married,No
+1216,28,19,4,Medical,Male,Married,No
+1217,46,15,2,Life Sciences,Male,Married,No
+1218,35,17,4,Life Sciences,Male,Married,No
+1219,24,17,2,Life Sciences,Female,Married,Yes
+1220,33,25,3,Medical,Female,Married,No
+1221,36,6,4,Life Sciences,Male,Divorced,No
+1224,30,7,4,Life Sciences,Male,Divorced,No
+1225,44,29,4,Other,Male,Single,No
+1226,20,21,3,Marketing,Male,Single,No
+1228,46,2,4,Technical Degree,Male,Divorced,No
+1231,42,2,5,Medical,Male,Married,No
+1233,60,7,4,Marketing,Male,Divorced,No
+1234,32,13,3,Other,Female,Married,No
+1235,32,2,2,Life Sciences,Female,Single,No
+1237,36,1,3,Technical Degree,Female,Divorced,No
+1238,33,9,3,Medical,Male,Married,No
+1239,40,10,3,Technical Degree,Female,Divorced,No
+1240,25,10,4,Life Sciences,Male,Single,No
+1241,30,1,3,Medical,Male,Married,No
+1242,42,26,5,Medical,Female,Married,No
+1243,35,8,2,Marketing,Female,Married,No
+1244,27,14,3,Life Sciences,Male,Married,No
+1245,54,1,4,Life Sciences,Female,Divorced,No
+1246,44,2,1,Life Sciences,Female,Married,No
+1248,19,10,3,Medical,Female,Single,Yes
+1249,29,1,3,Life Sciences,Female,Divorced,No
+1250,54,3,3,Life Sciences,Male,Married,No
+1251,31,11,2,Medical,Male,Married,No
+1252,31,24,3,Medical,Female,Single,No
+1254,59,3,3,Life Sciences,Female,Single,No
+1255,43,3,3,Life Sciences,Male,Married,No
+1256,49,4,2,Medical,Male,Married,No
+1257,36,3,3,Technical Degree,Male,Married,No
+1258,48,2,2,Technical Degree,Male,Single,No
+1259,27,4,2,Life Sciences,Male,Divorced,No
+1260,29,7,3,Life Sciences,Male,Divorced,No
+1263,48,1,3,Life Sciences,Male,Single,No
+1264,29,1,3,Life Sciences,Female,Divorced,No
+1265,34,20,3,Technical Degree,Female,Married,No
+1267,44,5,3,Marketing,Male,Married,No
+1268,33,10,5,Marketing,Male,Divorced,No
+1269,19,25,3,Life Sciences,Female,Single,No
+1270,23,1,2,Life Sciences,Male,Married,No
+1273,25,24,1,Life Sciences,Male,Single,Yes
+1275,26,4,2,Life Sciences,Male,Single,No
+1277,45,2,3,Marketing,Female,Single,Yes
+1278,55,8,1,Medical,Male,Divorced,No
+1279,21,10,2,Life Sciences,Female,Single,Yes
+1280,46,4,2,Marketing,Female,Married,No
+1281,34,2,3,Marketing,Female,Single,No
+1282,51,9,3,Life Sciences,Male,Divorced,No
+1283,59,18,4,Medical,Male,Single,No
+1285,34,19,3,Medical,Female,Divorced,No
+1286,28,1,4,Medical,Male,Single,No
+1288,44,4,2,Life Sciences,Male,Divorced,No
+1289,34,11,3,Life Sciences,Male,Married,No
+1291,35,6,1,Life Sciences,Male,Married,No
+1292,42,7,4,Medical,Female,Married,No
+1293,43,4,4,Marketing,Female,Single,No
+1294,36,2,4,Life Sciences,Female,Single,No
+1295,44,15,3,Medical,Female,Married,Yes
+1296,28,2,3,Life Sciences,Male,Married,No
+1297,51,6,2,Medical,Female,Single,No
+1298,30,9,2,Medical,Female,Single,No
+1299,29,7,3,Technical Degree,Female,Divorced,Yes
+1301,28,1,3,Technical Degree,Male,Single,No
+1303,25,1,3,Medical,Female,Single,No
+1304,32,8,3,Medical,Male,Married,No
+1306,45,25,3,Medical,Female,Single,No
+1307,39,13,4,Medical,Female,Divorced,No
+1308,58,23,4,Life Sciences,Male,Divorced,No
+1309,32,7,2,Life Sciences,Male,Married,Yes
+1310,39,23,3,Medical,Male,Single,Yes
+1311,30,6,3,Technical Degree,Female,Married,No
+1312,36,10,4,Technical Degree,Female,Married,No
+1314,46,1,2,Life Sciences,Female,Single,No
+1315,28,1,3,Life Sciences,Female,Married,No
+1317,50,28,3,Life Sciences,Female,Married,No
+1318,40,25,4,Marketing,Male,Single,Yes
+1319,52,5,3,Life Sciences,Male,Single,Yes
+1321,30,17,4,Medical,Female,Married,No
+1322,39,18,2,Life Sciences,Male,Single,No
+1324,31,2,4,Life Sciences,Female,Divorced,No
+1329,41,10,2,Medical,Male,Single,No
+1331,31,1,3,Life Sciences,Female,Single,Yes
+1333,44,3,3,Life Sciences,Male,Married,Yes
+1334,42,2,1,Life Sciences,Male,Married,No
+1336,55,2,2,Medical,Female,Married,No
+1338,56,8,4,Life Sciences,Male,Single,No
+1340,40,16,2,Life Sciences,Male,Divorced,No
+1344,34,9,3,Life Sciences,Male,Divorced,No
+1346,40,2,3,Life Sciences,Male,Single,No
+1349,41,1,3,Marketing,Female,Divorced,No
+1350,35,4,4,Life Sciences,Male,Single,No
+1352,51,5,3,Life Sciences,Male,Divorced,No
+1355,38,2,2,Life Sciences,Female,Divorced,No
+1356,34,15,2,Medical,Female,Single,No
+1358,25,19,1,Medical,Male,Married,No
+1360,58,7,4,Medical,Female,Married,Yes
+1361,40,1,4,Life Sciences,Male,Married,No
+1362,36,7,3,Marketing,Female,Married,No
+1363,48,4,3,Life Sciences,Male,Single,No
+1364,27,11,3,Medical,Female,Married,No
+1367,51,11,2,Technical Degree,Female,Single,No
+1368,18,1,3,Life Sciences,Female,Single,No
+1369,35,1,3,Medical,Female,Married,No
+1371,27,2,1,Life Sciences,Male,Single,No
+1372,55,13,4,Marketing,Male,Single,Yes
+1373,56,23,3,Life Sciences,Male,Married,No
+1374,34,26,1,Technical Degree,Female,Divorced,No
+1375,40,2,1,Medical,Female,Divorced,No
+1377,34,29,3,Medical,Male,Married,No
+1379,31,2,3,Life Sciences,Female,Single,Yes
+1380,35,18,4,Marketing,Female,Married,Yes
+1382,38,7,3,Life Sciences,Male,Divorced,No
+1383,34,2,4,Technical Degree,Female,Single,No
+1387,28,26,3,Life Sciences,Male,Married,No
+1389,31,22,4,Medical,Male,Married,Yes
+1390,39,21,4,Life Sciences,Male,Married,No
+1391,51,2,3,Marketing,Male,Married,No
+1392,41,22,3,Life Sciences,Female,Divorced,No
+1394,37,4,1,Life Sciences,Male,Married,No
+1395,33,5,1,Life Sciences,Male,Married,No
+1396,32,2,1,Marketing,Male,Married,No
+1397,39,25,2,Life Sciences,Male,Married,No
+1399,25,18,1,Life Sciences,Male,Married,No
+1401,52,28,2,Medical,Female,Married,No
+1402,43,6,3,Medical,Female,Single,No
+1403,27,10,3,Marketing,Female,Married,No
+1405,27,17,4,Life Sciences,Female,Single,Yes
+1407,26,2,1,Medical,Male,Single,No
+1408,42,10,3,Human Resources,Female,Married,No
+1409,52,8,4,Other,Female,Married,No
+1411,37,11,3,Medical,Female,Single,No
+1412,35,18,2,Life Sciences,Male,Single,No
+1415,25,1,3,Technical Degree,Male,Married,No
+1417,26,7,3,Other,Male,Single,No
+1419,29,17,3,Other,Male,Single,No
+1420,49,28,2,Life Sciences,Male,Single,Yes
+1421,29,14,1,Other,Female,Single,Yes
+1422,54,1,3,Medical,Female,Single,No
+1423,58,1,3,Medical,Female,Married,No
+1424,55,1,4,Medical,Male,Divorced,No
+1425,36,3,4,Marketing,Female,Single,No
+1427,31,1,4,Life Sciences,Female,Single,Yes
+1428,30,7,4,Marketing,Female,Divorced,No
+1430,31,8,5,Life Sciences,Female,Single,No
+1431,34,1,4,Other,Male,Divorced,No
+1433,31,8,3,Life Sciences,Female,Single,Yes
+1434,27,11,1,Life Sciences,Male,Married,No
+1435,36,4,4,Life Sciences,Male,Single,No
+1436,36,16,4,Marketing,Female,Married,No
+1438,47,1,3,Technical Degree,Male,Married,No
+1439,25,9,2,Life Sciences,Male,Married,Yes
+1440,37,5,2,Technical Degree,Male,Single,No
+1441,56,1,2,Life Sciences,Female,Married,No
+1443,47,2,4,Medical,Female,Married,No
+1445,24,4,1,Medical,Female,Married,No
+1446,32,7,5,Marketing,Male,Married,No
+1447,34,1,3,Life Sciences,Female,Married,No
+1448,41,5,5,Medical,Male,Married,No
+1449,40,9,4,Other,Male,Divorced,No
+1453,31,8,2,Life Sciences,Male,Divorced,No
+1457,46,9,3,Marketing,Male,Divorced,Yes
+1458,39,2,3,Life Sciences,Female,Single,Yes
+1459,31,1,5,Life Sciences,Female,Single,Yes
+1460,45,20,3,Medical,Male,Divorced,No
+1461,31,8,2,Medical,Female,Single,No
+1464,31,2,3,Life Sciences,Male,Married,Yes
+1465,45,29,3,Technical Degree,Male,Married,No
+1466,48,7,3,Marketing,Male,Divorced,No
+1467,34,9,4,Technical Degree,Female,Married,Yes
+1468,40,8,1,Medical,Male,Divorced,No
+1469,28,5,3,Medical,Male,Single,No
+1471,44,5,3,Life Sciences,Male,Single,No
+1472,53,2,3,Medical,Male,Single,No
+1473,49,5,4,Technical Degree,Male,Married,No
+1474,40,2,3,Medical,Male,Divorced,No
+1475,44,20,3,Life Sciences,Male,Single,No
+1477,33,7,3,Medical,Male,Married,No
+1478,34,3,3,Other,Male,Single,No
+1479,30,16,1,Life Sciences,Male,Married,No
+1480,42,9,2,Medical,Female,Single,No
+1481,44,1,5,Marketing,Female,Married,No
+1482,30,7,3,Technical Degree,Male,Divorced,No
+1483,57,1,2,Life Sciences,Male,Married,No
+1484,49,7,4,Life Sciences,Male,Divorced,No
+1485,34,15,3,Medical,Male,Divorced,No
+1486,28,1,3,Technical Degree,Male,Married,Yes
+1487,29,13,3,Technical Degree,Female,Single,Yes
+1489,34,24,4,Medical,Female,Single,Yes
+1492,35,7,1,Life Sciences,Male,Married,No
+1494,24,9,3,Medical,Male,Single,Yes
+1495,24,13,2,Life Sciences,Female,Married,No
+1496,44,2,1,Medical,Male,Single,No
+1497,29,19,3,Life Sciences,Male,Divorced,No
+1499,30,1,3,Life Sciences,Male,Divorced,No
+1501,55,4,4,Life Sciences,Male,Married,No
+1502,33,4,4,Medical,Female,Married,No
+1503,47,14,3,Medical,Female,Married,No
+1504,28,2,2,Medical,Male,Single,Yes
+1506,28,1,3,Life Sciences,Male,Divorced,No
+1507,28,7,3,Life Sciences,Male,Single,No
+1509,49,3,2,Medical,Female,Married,No
+1513,29,2,1,Life Sciences,Female,Married,No
+1514,28,29,1,Life Sciences,Male,Married,No
+1515,33,8,5,Life Sciences,Male,Single,No
+1516,32,10,3,Medical,Male,Single,No
+1520,54,11,4,Medical,Female,Divorced,No
+1522,29,1,4,Technical Degree,Male,Single,Yes
+1523,44,28,3,Life Sciences,Male,Married,No
+1525,39,6,3,Life Sciences,Female,Single,No
+1527,46,3,3,Life Sciences,Female,Married,No
+1529,35,16,3,Life Sciences,Female,Single,No
+1533,23,20,1,Life Sciences,Male,Single,No
+1534,40,9,4,Life Sciences,Male,Single,Yes
+1535,34,1,3,Technical Degree,Male,Married,No
+1537,31,3,3,Life Sciences,Female,Single,Yes
+1539,50,22,5,Medical,Male,Single,No
+1541,34,7,2,Technical Degree,Male,Married,No
+1542,42,2,3,Medical,Male,Married,No
+1543,37,13,3,Medical,Male,Married,No
+1544,29,8,1,Other,Female,Married,No
+1545,33,25,3,Life Sciences,Male,Single,No
+1546,45,28,3,Technical Degree,Male,Married,No
+1547,42,2,3,Life Sciences,Male,Married,No
+1548,40,9,2,Medical,Male,Married,No
+1549,33,28,4,Life Sciences,Male,Married,No
+1550,40,6,2,Medical,Male,Single,No
+1551,24,21,2,Technical Degree,Male,Divorced,No
+1552,40,8,2,Life Sciences,Male,Divorced,No
+1553,45,1,4,Technical Degree,Male,Divorced,No
+1554,35,28,4,Life Sciences,Female,Married,No
+1555,32,5,2,Life Sciences,Female,Married,No
+1556,36,2,4,Life Sciences,Male,Single,No
+1557,48,16,4,Life Sciences,Female,Divorced,No
+1558,29,9,3,Life Sciences,Male,Married,No
+1560,33,8,4,Life Sciences,Male,Married,No
+1562,30,1,3,Life Sciences,Male,Married,Yes
+1563,38,10,4,Human Resources,Male,Married,No
+1564,35,1,3,Medical,Male,Single,No
+1568,30,29,4,Technical Degree,Male,Married,No
+1569,35,2,3,Life Sciences,Female,Divorced,Yes
+1572,53,2,5,Technical Degree,Female,Married,Yes
+1573,38,2,3,Medical,Male,Married,Yes
+1574,32,1,4,Technical Degree,Male,Married,No
+1576,48,15,4,Other,Female,Married,No
+1577,34,7,4,Medical,Male,Single,No
+1578,55,26,5,Marketing,Male,Married,No
+1580,34,1,4,Life Sciences,Male,Married,No
+1581,26,3,3,Life Sciences,Female,Married,No
+1582,38,14,3,Life Sciences,Male,Married,No
+1583,38,16,3,Life Sciences,Female,Single,No
+1585,36,1,4,Life Sciences,Female,Single,No
+1586,29,3,1,Medical,Male,Single,No
+1587,35,10,4,Medical,Female,Single,No
+1588,39,6,3,Medical,Male,Married,No
+1590,29,2,1,Life Sciences,Male,Divorced,No
+1591,50,9,3,Marketing,Male,Married,No
+1592,23,10,3,Technical Degree,Male,Married,No
+1594,36,6,4,Life Sciences,Male,Married,No
+1595,42,9,2,Other,Male,Single,No
+1596,35,28,3,Life Sciences,Male,Married,No
+1597,34,10,4,Technical Degree,Male,Married,No
+1598,40,14,2,Life Sciences,Female,Married,No
+1599,43,27,3,Technical Degree,Male,Divorced,No
+1601,35,7,2,Life Sciences,Male,Married,No
+1602,46,1,4,Life Sciences,Male,Single,No
+1604,28,24,3,Medical,Male,Married,Yes
+1605,22,26,2,Other,Female,Married,No
+1606,50,20,5,Medical,Male,Married,No
+1607,32,5,4,Other,Female,Married,No
+1608,44,7,3,Medical,Female,Divorced,No
+1609,30,7,3,Medical,Male,Married,No
+1611,45,5,5,Medical,Female,Single,No
+1612,45,26,3,Marketing,Male,Married,No
+1613,31,2,4,Other,Male,Single,No
+1614,36,12,4,Life Sciences,Female,Married,No
+1615,34,10,4,Life Sciences,Male,Divorced,No
+1617,49,25,4,Life Sciences,Female,Married,No
+1618,39,10,5,Medical,Male,Married,No
+1619,27,19,3,Other,Male,Divorced,No
+1621,35,18,5,Life Sciences,Male,Married,No
+1622,28,27,3,Medical,Female,Divorced,No
+1623,21,5,1,Medical,Male,Single,No
+1624,18,3,2,Medical,Female,Single,Yes
+1625,47,26,4,Life Sciences,Female,Married,No
+1627,39,3,2,Medical,Male,Divorced,No
+1628,40,15,3,Life Sciences,Female,Married,No
+1630,35,8,4,Life Sciences,Female,Married,No
+1631,37,19,3,Life Sciences,Male,Married,No
+1633,39,4,3,Medical,Female,Single,No
+1635,45,2,2,Other,Female,Divorced,No
+1638,38,2,2,Medical,Female,Married,No
+1639,35,10,3,Medical,Male,Married,Yes
+1640,37,10,3,Medical,Female,Married,No
+1641,40,16,3,Life Sciences,Female,Single,No
+1642,44,1,5,Human Resources,Male,Married,No
+1644,48,4,5,Medical,Male,Married,No
+1645,35,15,2,Medical,Male,Divorced,Yes
+1646,24,2,1,Technical Degree,Female,Single,No
+1647,27,8,3,Medical,Female,Married,No
+1648,27,2,3,Medical,Male,Single,No
+1649,40,7,3,Life Sciences,Male,Single,Yes
+1650,29,10,3,Medical,Male,Single,No
+1651,36,5,4,Life Sciences,Female,Married,No
+1653,25,2,1,Life Sciences,Male,Divorced,No
+1654,39,12,3,Medical,Male,Married,No
+1655,49,22,4,Other,Female,Married,No
+1656,50,17,5,Life Sciences,Female,Divorced,No
+1657,20,2,3,Medical,Female,Single,No
+1658,34,3,3,Life Sciences,Female,Divorced,No
+1659,36,7,3,Life Sciences,Male,Single,No
+1661,49,6,1,Life Sciences,Female,Married,No
+1662,36,1,4,Medical,Female,Married,No
+1664,36,3,2,Life Sciences,Male,Divorced,No
+1665,54,22,5,Medical,Female,Married,No
+1666,43,15,2,Life Sciences,Male,Married,No
+1667,35,12,4,Other,Male,Single,Yes
+1668,38,1,3,Life Sciences,Male,Married,No
+1669,29,5,3,Medical,Male,Divorced,No
+1670,33,2,4,Medical,Male,Divorced,No
+1671,32,2,3,Medical,Male,Divorced,No
+1673,31,5,4,Life Sciences,Female,Married,No
+1674,49,16,3,Medical,Female,Divorced,No
+1675,38,2,3,Medical,Female,Single,No
+1676,47,2,4,Life Sciences,Female,Divorced,No
+1677,49,1,3,Life Sciences,Male,Single,No
+1678,41,23,2,Life Sciences,Male,Single,No
+1680,20,9,1,Life Sciences,Male,Single,No
+1681,33,16,3,Life Sciences,Female,Divorced,No
+1682,36,26,4,Life Sciences,Male,Married,No
+1683,44,1,3,Life Sciences,Female,Divorced,No
+1684,23,8,1,Medical,Male,Single,Yes
+1687,38,4,2,Medical,Female,Married,No
+1689,53,24,4,Medical,Male,Married,No
+1691,48,7,2,Medical,Female,Married,Yes
+1692,32,2,4,Life Sciences,Male,Single,Yes
+1693,26,7,3,Medical,Male,Single,No
+1694,55,22,3,Technical Degree,Male,Divorced,No
+1696,34,5,2,Medical,Male,Married,No
+1697,60,1,4,Medical,Male,Divorced,No
+1698,33,21,3,Medical,Male,Married,No
+1700,37,1,4,Medical,Male,Divorced,No
+1701,34,19,3,Life Sciences,Female,Married,No
+1702,23,7,3,Life Sciences,Male,Divorced,Yes
+1703,44,2,3,Life Sciences,Female,Married,No
+1704,35,2,4,Medical,Male,Single,No
+1706,43,2,3,Medical,Male,Married,No
+1707,24,9,3,Medical,Male,Married,No
+1708,41,6,3,Marketing,Male,Single,No
+1709,29,9,4,Medical,Female,Married,No
+1710,36,2,4,Life Sciences,Female,Single,No
+1712,45,1,1,Life Sciences,Male,Married,No
+1714,24,22,1,Human Resources,Male,Married,Yes
+1716,47,9,3,Life Sciences,Male,Married,Yes
+1718,26,17,4,Medical,Male,Married,No
+1719,45,28,2,Technical Degree,Female,Single,No
+1720,32,10,3,Life Sciences,Male,Married,No
+1721,31,2,4,Life Sciences,Male,Married,No
+1722,41,4,3,Human Resources,Male,Married,No
+1724,40,8,2,Life Sciences,Female,Married,No
+1725,24,29,1,Medical,Male,Divorced,No
+1727,46,13,4,Life Sciences,Male,Single,No
+1728,35,27,4,Life Sciences,Male,Married,No
+1729,30,16,1,Life Sciences,Male,Married,No
+1731,47,2,4,Marketing,Male,Married,No
+1732,46,2,3,Life Sciences,Male,Divorced,No
+1733,36,13,5,Marketing,Male,Divorced,Yes
+1734,32,1,2,Life Sciences,Male,Single,Yes
+1735,23,4,1,Medical,Female,Single,No
+1736,31,24,1,Technical Degree,Female,Single,No
+1737,39,1,3,Life Sciences,Male,Married,No
+1739,32,19,3,Life Sciences,Male,Married,No
+1740,40,7,4,Medical,Male,Single,No
+1744,45,4,3,Life Sciences,Female,Married,No
+1745,30,2,4,Technical Degree,Female,Single,No
+1746,24,10,3,Medical,Male,Married,No
+1747,30,8,3,Human Resources,Female,Divorced,Yes
+1749,31,5,3,Technical Degree,Male,Married,No
+1751,27,8,3,Medical,Female,Single,No
+1752,29,9,3,Marketing,Female,Single,Yes
+1753,29,1,3,Life Sciences,Male,Single,No
+1754,30,15,2,Marketing,Male,Divorced,No
+1755,34,2,4,Medical,Male,Married,No
+1756,33,2,3,Marketing,Female,Single,No
+1757,49,11,4,Marketing,Female,Single,No
+1758,33,16,3,Life Sciences,Female,Single,Yes
+1760,38,2,2,Medical,Female,Married,No
+1761,31,16,4,Marketing,Male,Married,Yes
+1762,29,4,3,Technical Degree,Female,Divorced,No
+1763,30,16,3,Life Sciences,Male,Married,No
+1764,32,5,4,Technical Degree,Male,Single,No
+1766,38,18,3,Medical,Male,Married,No
+1767,43,17,3,Technical Degree,Male,Married,Yes
+1768,42,12,3,Medical,Male,Divorced,No
+1770,55,2,3,Medical,Male,Married,No
+1771,33,4,3,Technical Degree,Male,Divorced,No
+1772,41,9,4,Life Sciences,Male,Divorced,No
+1774,34,10,3,Life Sciences,Male,Divorced,No
+1775,53,1,4,Medical,Female,Married,No
+1778,43,2,3,Life Sciences,Male,Single,No
+1779,34,3,2,Life Sciences,Female,Single,No
+1780,21,7,1,Marketing,Male,Single,Yes
+1782,38,6,2,Other,Female,Married,No
+1783,22,8,1,Medical,Female,Married,Yes
+1784,31,29,4,Marketing,Female,Married,No
+1786,51,3,3,Technical Degree,Female,Married,No
+1787,37,9,2,Marketing,Male,Married,No
+1789,46,2,4,Medical,Male,Divorced,No
+1790,36,10,3,Life Sciences,Male,Married,No
+1792,44,1,2,Medical,Male,Divorced,Yes
+1794,37,8,2,Other,Male,Divorced,No
+1797,35,27,3,Life Sciences,Male,Single,Yes
+1798,33,8,4,Life Sciences,Male,Married,No
+1799,28,1,3,Life Sciences,Male,Married,No
+1800,39,10,1,Medical,Male,Single,No
+1801,46,26,2,Life Sciences,Male,Single,No
+1802,40,2,2,Life Sciences,Female,Married,No
+1803,42,13,3,Medical,Male,Married,No
+1804,35,2,2,Medical,Male,Divorced,No
+1805,38,2,3,Human Resources,Male,Divorced,No
+1807,34,9,4,Life Sciences,Male,Married,Yes
+1809,37,10,4,Medical,Male,Single,Yes
+1812,39,20,3,Life Sciences,Male,Divorced,No
+1813,43,9,3,Life Sciences,Male,Single,No
+1814,41,5,3,Life Sciences,Male,Single,No
+1815,41,4,1,Marketing,Female,Divorced,No
+1816,30,10,3,Medical,Female,Single,No
+1818,26,20,2,Medical,Female,Married,Yes
+1821,46,21,2,Medical,Female,Married,Yes
+1822,40,1,3,Life Sciences,Female,Divorced,No
+1823,34,8,2,Technical Degree,Male,Married,No
+1824,58,2,3,Medical,Male,Divorced,No
+1826,35,23,4,Medical,Male,Married,No
+1827,47,4,3,Life Sciences,Female,Divorced,No
+1829,40,12,3,Life Sciences,Female,Divorced,No
+1830,54,7,4,Medical,Female,Married,No
+1833,31,7,4,Marketing,Female,Married,No
+1834,28,1,3,Medical,Female,Married,No
+1835,38,2,4,Marketing,Female,Married,No
+1836,26,10,3,Medical,Male,Single,No
+1837,58,15,4,Life Sciences,Male,Married,No
+1839,18,14,3,Medical,Female,Single,No
+1842,31,18,5,Human Resources,Male,Married,Yes
+1844,29,13,3,Human Resources,Male,Divorced,Yes
+1845,45,2,4,Life Sciences,Female,Married,No
+1847,36,2,4,Other,Female,Married,No
+1849,43,2,4,Life Sciences,Male,Married,No
+1850,27,5,2,Life Sciences,Female,Single,No
+1852,29,20,1,Medical,Male,Married,No
+1853,32,10,4,Marketing,Male,Single,No
+1854,42,10,4,Technical Degree,Male,Married,No
+1856,47,9,4,Life Sciences,Female,Single,No
+1857,46,2,2,Life Sciences,Male,Divorced,No
+1858,28,1,2,Life Sciences,Male,Divorced,No
+1859,29,29,1,Life Sciences,Male,Divorced,No
+1860,42,8,3,Life Sciences,Male,Single,No
+1862,32,2,4,Marketing,Male,Single,Yes
+1863,46,3,3,Technical Degree,Female,Divorced,No
+1864,27,23,1,Medical,Female,Married,No
+1865,29,6,1,Medical,Male,Married,No
+1866,43,6,3,Medical,Female,Married,No
+1867,48,10,3,Life Sciences,Male,Married,No
+1868,29,24,2,Life Sciences,Male,Single,Yes
+1869,46,10,3,Life Sciences,Female,Married,Yes
+1870,27,15,3,Life Sciences,Female,Married,No
+1871,39,19,4,Other,Male,Divorced,No
+1873,55,2,4,Technical Degree,Male,Married,No
+1875,28,3,3,Medical,Female,Married,No
+1876,30,9,3,Medical,Male,Single,Yes
+1878,22,7,1,Life Sciences,Male,Single,Yes
+1880,36,10,4,Technical Degree,Female,Married,No
+1881,31,20,3,Life Sciences,Male,Divorced,No
+1882,34,4,3,Life Sciences,Male,Married,No
+1883,29,7,3,Life Sciences,Male,Single,No
+1885,37,7,4,Medical,Male,Married,No
+1886,35,16,2,Other,Female,Married,No
+1888,45,25,2,Life Sciences,Female,Married,No
+1890,36,2,1,Human Resources,Male,Single,No
+1892,40,1,4,Life Sciences,Male,Divorced,No
+1893,26,1,2,Life Sciences,Female,Married,No
+1898,27,2,2,Medical,Female,Single,No
+1900,48,22,3,Medical,Female,Divorced,No
+1903,44,1,4,Life Sciences,Male,Married,No
+1905,34,16,4,Technical Degree,Male,Married,Yes
+1907,56,24,2,Life Sciences,Male,Single,Yes
+1908,36,17,2,Marketing,Male,Married,No
+1909,41,8,3,Marketing,Female,Married,No
+1911,42,6,3,Medical,Male,Married,No
+1912,31,10,2,Medical,Female,Divorced,No
+1915,34,3,1,Medical,Female,Married,No
+1916,31,4,3,Medical,Female,Divorced,No
+1918,26,6,3,Other,Male,Married,No
+1922,45,1,4,Medical,Male,Single,No
+1924,33,10,4,Marketing,Male,Single,No
+1927,28,1,2,Life Sciences,Male,Married,No
+1928,29,24,3,Technical Degree,Male,Single,Yes
+1929,39,21,4,Life Sciences,Female,Married,No
+1931,27,2,4,Technical Degree,Male,Married,No
+1932,34,22,4,Other,Male,Married,No
+1933,28,13,2,Marketing,Female,Single,Yes
+1934,47,14,4,Technical Degree,Male,Married,No
+1935,56,11,5,Marketing,Female,Married,No
+1936,39,9,2,Medical,Male,Married,No
+1937,38,8,3,Medical,Female,Divorced,No
+1938,58,21,3,Life Sciences,Female,Married,No
+1939,32,5,2,Life Sciences,Female,Single,Yes
+1940,38,9,2,Life Sciences,Male,Divorced,No
+1941,49,2,1,Life Sciences,Male,Married,No
+1943,42,12,4,Marketing,Male,Divorced,No
+1944,27,22,3,Human Resources,Female,Married,Yes
+1945,35,18,4,Medical,Male,Married,No
+1947,28,16,3,Medical,Male,Single,No
+1948,31,3,2,Medical,Male,Divorced,No
+1949,36,9,4,Life Sciences,Male,Married,No
+1950,34,1,3,Marketing,Male,Single,No
+1951,34,13,4,Medical,Male,Divorced,No
+1952,26,1,3,Medical,Male,Single,No
+1954,29,1,3,Life Sciences,Male,Married,No
+1955,32,15,4,Medical,Female,Divorced,No
+1956,31,1,3,Life Sciences,Male,Married,No
+1960,28,17,3,Technical Degree,Male,Divorced,Yes
+1961,38,1,3,Life Sciences,Male,Single,No
+1962,35,7,4,Life Sciences,Female,Married,No
+1965,27,9,3,Marketing,Male,Single,No
+1966,32,5,4,Life Sciences,Male,Single,No
+1967,31,26,4,Marketing,Male,Married,Yes
+1968,53,24,4,Life Sciences,Male,Single,Yes
+1969,54,9,2,Life Sciences,Female,Married,No
+1970,33,7,2,Life Sciences,Male,Divorced,No
+1971,43,11,3,Life Sciences,Male,Married,No
+1972,38,1,4,Other,Male,Married,No
+1973,55,26,4,Human Resources,Male,Married,No
+1974,31,2,1,Medical,Female,Divorced,No
+1975,39,15,4,Marketing,Male,Single,No
+1976,42,23,2,Life Sciences,Male,Single,No
+1979,31,10,3,Medical,Female,Married,No
+1980,54,10,3,Medical,Female,Single,No
+1981,24,1,2,Life Sciences,Male,Single,No
+1982,23,12,2,Other,Male,Single,No
+1985,40,11,3,Technical Degree,Female,Married,No
+1986,40,2,2,Marketing,Female,Married,No
+1987,25,2,3,Human Resources,Female,Married,No
+1989,30,1,2,Medical,Male,Married,No
+1992,25,2,1,Other,Male,Divorced,No
+1993,47,25,3,Medical,Male,Single,No
+1994,33,1,2,Medical,Male,Divorced,No
+1995,38,1,4,Life Sciences,Male,Married,No
+1996,31,2,2,Life Sciences,Male,Married,No
+1997,38,6,4,Life Sciences,Male,Married,No
+1998,42,18,4,Life Sciences,Male,Divorced,No
+1999,41,1,3,Life Sciences,Male,Married,No
+2000,47,1,1,Medical,Female,Married,No
+2003,35,11,4,Medical,Male,Married,No
+2007,22,1,2,Life Sciences,Male,Single,No
+2008,35,9,4,Medical,Male,Single,No
+2009,33,15,2,Medical,Female,Married,No
+2010,32,29,4,Life Sciences,Female,Single,No
+2012,40,1,4,Life Sciences,Male,Married,No
+2013,32,1,4,Medical,Male,Married,No
+2014,39,24,1,Life Sciences,Male,Single,No
+2015,38,10,3,Medical,Female,Married,No
+2016,32,1,4,Marketing,Female,Married,No
+2017,37,10,3,Life Sciences,Female,Married,No
+2018,25,8,2,Other,Female,Divorced,No
+2019,52,29,4,Life Sciences,Male,Divorced,No
+2020,44,1,3,Medical,Male,Single,No
+2021,21,5,1,Medical,Male,Single,No
+2022,39,9,3,Life Sciences,Male,Single,No
+2023,23,9,3,Marketing,Male,Married,Yes
+2024,36,3,3,Medical,Female,Married,No
+2025,36,4,2,Life Sciences,Female,Divorced,No
+2026,56,1,4,Life Sciences,Male,Divorced,No
+2027,29,1,4,Medical,Male,Married,Yes
+2031,42,2,3,Life Sciences,Male,Married,No
+2032,56,7,2,Technical Degree,Male,Married,Yes
+2034,41,28,4,Life Sciences,Female,Married,No
+2035,34,28,3,Marketing,Female,Married,No
+2036,36,15,4,Marketing,Male,Divorced,No
+2037,41,3,3,Life Sciences,Male,Divorced,No
+2038,32,2,3,Technical Degree,Male,Single,No
+2040,35,26,4,Life Sciences,Female,Single,No
+2041,38,10,2,Life Sciences,Female,Married,No
+2044,50,1,4,Life Sciences,Male,Divorced,Yes
+2045,36,11,4,Marketing,Female,Married,No
+2046,45,20,3,Life Sciences,Female,Single,No
+2048,40,2,4,Life Sciences,Male,Single,No
+2049,35,18,4,Life Sciences,Male,Married,No
+2051,40,2,4,Medical,Female,Married,No
+2052,35,1,4,Life Sciences,Female,Married,No
+2053,29,13,2,Other,Male,Married,No
+2054,29,28,4,Medical,Female,Single,No
+2055,50,28,3,Marketing,Male,Divorced,Yes
+2056,39,24,1,Marketing,Female,Married,No
+2057,31,5,3,Medical,Male,Single,No
+2060,26,5,3,Other,Female,Single,No
+2061,36,23,2,Medical,Male,Married,No
+2062,39,6,1,Medical,Male,Married,No
+2064,27,4,3,Life Sciences,Male,Married,No
+2065,49,2,3,Medical,Male,Married,No
+2068,34,8,3,Medical,Male,Married,No
